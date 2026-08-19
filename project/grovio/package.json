@@ -20,7 +20,7 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "concurrently": "^10.0.5",
-    "electron": "^43.4.0",
+    "electron": "^43.4.1",
     "eslint": "^9",
     "eslint-config-next": "16.3.1",
     "tailwindcss": "^4",
