@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Toned Milk",
+    "price": 65,
+    "category": "Dairy",
+    "image": "/products/tonedmilk.png"
+  },
+  {
+    "id": 2,
+    "name": "Brown Bread",
+    "price": 45,
+    "category": "Bakery",
+    "image": "/products/brownbread.png"
+  },
+  {
+    "id": 3,
+    "name": "Fresh Apples",
+    "price": 120,
+    "category": "Fruits",
+    "image": "/products/apple.png"
+  },
+  {
+    "id": 4,
+    "name": "Choco Chip Cookies",
+    "price": 40,
+    "category": "Snacks",
+    "image": "/products/cookies.png"
+  }
+]
